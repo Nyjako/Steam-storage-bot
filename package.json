@@ -1,0 +1,21 @@
+{
+  "name": "Steam-storage-bot",
+  "version": "1.0.0",
+  "description": "Steam stortage bot by Nyjako",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "update": "npm update"
+  },
+  "author": "Kacper Tucholski (Nyjako)",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "date-and-time": "^0.6.3",
+    "steam-totp": "^2.1.0",
+    "steam-tradeoffer-manager": "^2.9.5",
+    "steam-user": "^4.5.0",
+    "steamcommunity": "^3.39.0",
+  }
+}
