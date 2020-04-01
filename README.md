@@ -67,3 +67,9 @@ Simple steam bot that handle trade offers check if trade was send by any admin a
   + To run bot
     +   Run [start.bat](https://github.com/Nyjako/Steam-storage-bot/blob/master/start.bat)
     +   Or try this command `npm start`
+
+### License
+ This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Nyjako/Steam-storage-bot/blob/master/LICENSE) file for details
+
+### Contributing
+If you are interested in contributing (and you can read my awful code) feel free to edit anything in this project.
