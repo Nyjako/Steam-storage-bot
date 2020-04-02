@@ -1,3 +1,5 @@
+Buy me a coffe :) https://www.buymeacoffee.com/Nyjako
+
 # Steam storage bot
  
 Simple steam bot that handle trade offers check if trade was send by any admin and accept or decline trade.
